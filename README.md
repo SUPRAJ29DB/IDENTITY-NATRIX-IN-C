@@ -1,4 +1,4 @@
-# IDENTITY-NATRIX-IN-C
+# IDENTITY-MATRIX-IN-C
 #include <stdio.h>
 
 int main() {
