@@ -1,4 +1,5 @@
 # IDENTITY-MATRIX-IN-C
+```
 #include <stdio.h>
 
 int main() {
@@ -29,6 +30,7 @@ int main() {
 
     return 0;
 }
+```
 //
 // Created by Suprakash Ghosh on 19-07-2025.
 //
